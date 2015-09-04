@@ -1,0 +1,14 @@
+{
+    "name": "wanggang/composer-test",
+    "description": "In order to study composer",
+    "type": "composer",
+    "license": "MIt",
+    "authors": [
+        {
+            "name": "Wang Gang",
+            "email": "wang.gang@immomo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
